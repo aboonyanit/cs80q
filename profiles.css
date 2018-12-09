@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+	font-family: 'Lora', serif;
+	padding-right: 20px;
+	padding-left: 20px;
+  	text-align: center;
+}
+h1 {
+	 z-index: 1;
+	font-size: 500.01%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+h2 {
+	font-size: 200.01%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+}
